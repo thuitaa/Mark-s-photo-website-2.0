@@ -38,3 +38,11 @@
 .navigation a:hover {
     color: #ffdf00; /* Highlight on hover */
 }
+
+#home p {
+    color: rgb(116, 24, 24) ;
+    font-size: large;
+    line-height: 50px;
+}
+
+
