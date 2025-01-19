@@ -114,6 +114,64 @@
     /* Highlight on hover */
 
 }
+.Page3-html .form-container  {
+            font-family: Roboto;
+            background-color: silver;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            padding: 10px 20px;
+            border: #291646;
+            width: 100%;
+}
+
+.form-container label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+.Page3-html{
+    background-color: silver;
+}
+
+.Page3-html h1{
+    font-family: Roboto;
+    font-weight: 600;
+    background-color:silver ;
+
+}
+
+.form-container input,
+.form-container textarea,
+.form-container button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid purple;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.form-container button {
+    background-color: #89CFF0;
+    color: crimson;
+    transition: 0.5s color;
+
+}
+.form-container button:hover{
+   background-color: green;
+}
+.Page3-html a{
+    color: #0b2f5c;
+    text-decoration: none;
+    transition: 0.5s color;
+
+}
+.Page3-html a:hover{
+    color: red;
+}
 
 
 
