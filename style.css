@@ -1,1 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.Page1-html  {
+    background-image: url(maxim-hopman-xyDkHkvDYp4-unsplash.jpg);
+    margin: 0;
+    font-family: Roboto;
+    font-weight: 500;
+
+}
+
+.Page1-html header {
+    padding: 5px 8px;
+    border: rgb(18, 18, 149);
+    background: linear-gradient(to right, #291646, #0b2f5c);
+    height: 105px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: silver;
+    
+}
