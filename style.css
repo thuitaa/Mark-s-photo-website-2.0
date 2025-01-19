@@ -73,7 +73,7 @@
 .myphotos1 {
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 35px;
 }
 
 .myphotos1 img {
@@ -172,6 +172,8 @@
 .Page3-html a:hover{
     color: red;
 }
+
+
 
 
 
