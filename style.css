@@ -59,3 +59,26 @@
     background-color: gold;
     cursor: pointer;
 }
+
+/* styling Page2-html */
+.Page2-html h1,
+.myphotos1, .myphotos2 {
+    font-family: Roboto;
+    font-weight: 600;
+}
+.Page2-html {
+    background: linear-gradient(to bottom, #2ecc71, #27ae60);
+}
+/* designing myphotos1 section */
+.myphotos1 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+
+
+
+
+
