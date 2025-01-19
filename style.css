@@ -76,6 +76,45 @@
     gap: 50px;
 }
 
+.myphotos1 img {
+    border-radius: 15px;
+}
+
+.myphotos2 img {
+    border-radius: 15px;
+}
+
+.buttons .gotolastpage{
+    text-decoration: none;
+        color: silver;
+        font-size: 16px;
+        font-weight: 500;
+        transition: color 0.3s;
+        padding: 5px 8px;
+
+}
+
+.buttons .gotolastpage:hover{
+    color: #ff5e00; /* Highlight on hover */
+
+}
+
+.buttons .gotopage3 {
+    text-decoration: none;
+    color: silver;
+    font-size: 16px;
+    font-weight: 500;
+    transition: color 0.3s;
+    padding: 5px 8px;
+
+}
+
+.buttons .gotopage3:hover {
+    color: #ff5e00;
+    /* Highlight on hover */
+
+}
+
 
 
 
